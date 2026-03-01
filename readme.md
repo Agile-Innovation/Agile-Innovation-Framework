@@ -154,7 +154,7 @@ Initiated and maintained by **Sascha Block**.
 **Agile Innovation Framework**  
 **AIF**
 
-In this context, **AI** stands for **Agile Innovation**.
+In this context, **AI** stands for **Agile Innovation** which includes the trustfull coverage of *Artificial Intelligence*.
 
 ---
 
