@@ -1,8 +1,8 @@
-# Agile Innovation Execution Framework
+# Agile Innovation Framework
 
 **AIF — designed for sovereign innovation**
 
-The **Agile Innovation Execution Framework (AIF)** is an open framework for designing, validating, and evolving agile innovation in environments where **trust, compliance, security, and traceability** matter.
+The **Agile Innovation Framework (AIF)** is an open framework for designing, validating, and evolving agile innovation in environments where **trust, compliance, security, and traceability** matter.
 
 AIF is built for **agile organizations** that need and want much more than just speed. It provides a structured and SMART approach for turning innovation into **transparent, reviewable, and governable execution** — especially in regulated, publicly funded, or sovereignty-critical contexts.
 
@@ -17,7 +17,7 @@ Digital innovation often fails of weak infrastructure and laking agile collabora
 - decisions are poorly documented
 - collaboration depends in different dimensions
 
-**Agile Innovation Execution Framework (AIF)** addresses this by combining **agility, innovation, and execution discipline** in a way that remains adaptable without becoming arbitrary.
+**Agile Innovation Framework (AIF)** addresses this by combining **agility, innovation, and execution discipline** in a way that remains adaptable without becoming arbitrary.
 
 ## What AIF is
 
@@ -54,7 +54,7 @@ Compliance must not be treated as a late-stage obstacle or pure regulation. It s
 ### 3. Security as a system property
 Security is not an add-on. It must be embedded into requirements, architecture, delivery, and governance.
 
-### 4. Transparent execution
+### 4. Transparency
 Relevant decisions, changes, reviews, and validation steps should be visible, explainable, and reproducible.
 
 ### 5. Versionable governance
@@ -74,7 +74,7 @@ In a world shaped by:
 - increasing security pressure
 - and the need for digital sovereignty
 
-organizations need execution models that can support both **innovation** and **accountability**.
+organizations need agile innovation models that can support both **innovation** and **accountability**.
 
 AIF aims to contribute to exactly that.
 
@@ -151,7 +151,7 @@ Initiated and maintained by **Sascha Block**.
 
 ## Working title and abbreviation
 
-**Agile Innovation Execution Framework**  
+**Agile Innovation Framework**  
 **AIF**
 
 In this context, **AI** stands for **Agile Innovation**.
