@@ -4,6 +4,32 @@
 
 The **Agile Innovation Framework (AIF)** is an open framework for an agile, iterative prototyping method that drives innovation efficiently and purposefully by seamlessly linking strategy, technical implementation, and operational processes, and defines a transparent, auditable, and secure software development process.
 
+```mermaid
+flowchart TB
+    subgraph SIS["Strategic Implementation System (SIS)"]
+        direction LR
+        IM["Innovation Matrix"]
+        IB["Innovation Blueprint"]
+        VER["Visionary Execution Roadmap"]
+    end
+
+    AI["Agile Innovation (AI)"]
+
+    TAM["Technological Architecture Manifesto"]
+    CSD["Compliance & Security Doctrine"]
+    OSM["Operational Synergy Map"]
+
+    IM --- AI
+    IB --- AI
+    VER --- AI
+
+    AI --- TAM
+    AI --- CSD
+    AI --- OSM
+
+    style SIS fill:none,stroke:#666,stroke-width:1px,stroke-dasharray: 5 5
+```
+
 The **Agile Innovation Framework** is an **agile method** for **driving innovation with ease**. The framework is designed to generate positive impact out of the box including validating, and evolving agile innovation in environments where **trust, compliance, security, and traceability** matter.
 
 AIF is built for **agile organizations** that need and want much more than just speed. It provides a structured and SMART approach for turning innovation into **transparent, reviewable, and governable execution** — especially in regulated, publicly funded, or sovereignty-critical contexts.
