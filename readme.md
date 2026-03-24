@@ -132,9 +132,25 @@ AIF is intended to complement and connect with related open work such as:
 
 Where appropriate, AIF may be supported by machine-readable artifacts, reference implementations, and validation tooling.
 
+## IT Security assessment governance
+
+The **Agile Innovation Framework** treats IT Security assessments as governed decision artifacts.
+
+An IT Security assessment in AIF should explicitly define:
+- who created it,
+- who commissioned it,
+- for whom it exists,
+- what exactly is being assessed,
+- which decision it supports,
+- which assumptions and limits apply,
+- and which actions or gates follow from it.
+
+See:
+- [IT Security Assessment - Purpose, Scope & Accountability]((https://github.com/Agile-Innovation/Agile-Innovation-Framework/blob/main/Compliance-%26-Security-Doctrine/IT_Security_Assessment_Purpose_Scope_and_Accountability.md)
+
 ## Intended audience
 
-AIF is relevant for:
+The **Agile Innovation Framework** is relevant for:
 
 - IT architects / Software architects
 - software delivery leaders
