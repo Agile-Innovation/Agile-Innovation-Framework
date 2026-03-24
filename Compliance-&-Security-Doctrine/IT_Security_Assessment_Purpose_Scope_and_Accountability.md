@@ -1,4 +1,4 @@
-# Security Assessment Governance
+# IT Security Assessment - Purpose, Scope & Accountability
 
 ## Purpose
 
