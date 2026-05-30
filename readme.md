@@ -160,6 +160,23 @@ The **Agile Innovation Framework** is relevant for:
 - regulated industries
 - organizations seeking trustworthy digital execution models
 
+## Normative Language
+
+This framework and it's model use normative language intentionally.
+
+The terms MUST, MUST NOT, REQUIRED, SHOULD, SHOULD NOT, RECOMMENDED, MAY, and OPTIONAL are used to indicate requirement levels.
+
+MUST defines a mandatory requirement.
+
+SHOULD defines a recommended practice that may be omitted only if the deviation is explicitly justified, documented, reviewed, and accepted.
+
+MAY defines an optional capability or extension.
+
+Within this model, requirements related to roles, functions, permissions, decision rights, separation of duties, independent control, escalation, and evidence obligations use MUST where they are necessary for trustworthy governance, auditability, and Zero Trust-oriented access control.
+
+This ensures that core governance requirements are not treated as optional implementation details.
+
+
 ## Status
 
 > **Work in progress**
