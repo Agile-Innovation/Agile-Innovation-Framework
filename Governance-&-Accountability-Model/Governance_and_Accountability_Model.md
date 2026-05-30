@@ -6,6 +6,24 @@ The Governance & Accountability Model defines how an organization establishes tr
 
 It ensures that agile innovation remains adaptive without becoming arbitrary, and that decisions are traceable, reviewable, and connected to defined roles, responsibilities, evidence, risks, and acceptance criteria.
 
+## Intent and positive effect of justice governance
+
+Effective governance arises from the complementary integration of diverse expertise while keeping execution, approval, control, and arbitration responsibilities clearly separated. This ensures that **democratic principles are effectively reflected**.
+
+The following responsibilities MUST be separated where decisions create relevant financial, operational, technical, legal, compliance, or security impact:
+
+* defining requirements
+* implementing changes
+* approving outcomes
+* accepting risks
+* reviewing evidence
+* controlling compliance
+* resolving disputes
+
+A role MAY contribute expertise across multiple areas, but critical decisions MUST remain reviewable and MUST include appropriate independent control.
+
+Any deviation from this separation MUST be documented, justified, reviewed, and explicitly accepted by an accountable role.
+
 ---
 
 ## Purpose
