@@ -26,6 +26,34 @@ Any deviation from this separation MUST be documented, justified, reviewed, and 
 
 ---
 
+## Admission Decision Rights
+
+Software Component Admission introduces distinct responsibilities:
+
+- Admission Policy Owner
+- Criterion Owner
+- Procedure Owner
+- Evidence Producer
+- Validator / Reviewer
+- Admission Authority
+- Exception Authority
+
+A single person MAY hold several roles in a low-risk prototype.
+
+Separation of duties MUST be introduced where regulation, security impact or risk requires independent control.
+
+Admission exceptions MUST record:
+
+- scope,
+- rationale,
+- approver,
+- affected criteria,
+- residual risk,
+- validity period,
+- and revalidation trigger.
+
+---
+
 ## Purpose
 
 The purpose of the Governance & Accountability Model is to provide a reusable governance structure for organizations that need to balance innovation, accountability, stakeholder participation, compliance, and operational effectiveness.
