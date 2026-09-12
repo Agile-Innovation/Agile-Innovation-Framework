@@ -58,6 +58,21 @@ It enables dynamic adjustment when:
 
 ---
 
+## Strategic Priority and Technical Admission
+
+Strategic priority and technical admissibility are independent dimensions.
+
+A candidate MAY have high strategic value while being technically inadmissible.
+
+The Innovation Matrix MUST NOT treat priority, business value or innovation potential as evidence of technical admission.
+
+Where admission is required, only candidates with an applicable ADMITTED decision may progress into the protected implementation scope.
+
+BLOCKED candidates require additional evidence or validation.
+REJECTED candidates require a changed candidate, configuration, criterion, policy or justified governance decision before reconsideration.
+
+---
+
 ## Core Content
 
 ### 1. Effort Estimation
