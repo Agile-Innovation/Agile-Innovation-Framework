@@ -82,6 +82,22 @@ Requirement Atom and Architecture Decision Record remain existing core classes.
 
 Validation Rule and Compliance Evidence are promoted from integration concepts into first-class canonical relationships where required by an Admission Profile.
 
+### Admission Validation
+
+Traceability Validation is extended with typed graph semantics.
+
+DSL Core SHOULD validate:
+
+1. artifact structure,
+2. references,
+3. allowed graph relations,
+4. mandatory traceability paths,
+5. evidence completeness,
+6. validation outcomes,
+7. deterministic Admission Decision derivation.
+
+An Admission Decision MUST NOT become ADMITTED when mandatory evidence is missing, invalid or inconclusive.
+
 ---
 
 ## Why DSL Core Belongs to the Agile Innovation Framework
