@@ -92,6 +92,24 @@ They are typically divided into:
   - Example: "The system must provide 99.9% availability."
 - **Technical Requirements** – infrastructure, architecture, and technology constraints  
   - Example: "The system must be deployable on Kubernetes."
+ 
+## Acceptance Criteria and Admission
+
+Requirements that influence technical admissibility SHOULD be operationalized through explicit Acceptance Criteria.
+
+An Acceptance Criterion defines an independently evaluable condition under which a requirement or technical state can be considered satisfied.
+
+Where an Acceptance Criterion affects admission, it MUST identify or be traceable to:
+
+- its originating Requirement,
+- its applicable scope,
+- the Validation Rule or verification method,
+- required Evidence,
+- and its admission effect.
+
+The Innovation Blueprint defines intent and constraints.
+
+It does not itself derive the final Admission Decision.
 
 ### Role in the Innovation Blueprint
 
