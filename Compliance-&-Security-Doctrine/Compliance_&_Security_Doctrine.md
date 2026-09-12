@@ -14,6 +14,21 @@ The objective of the Compliance & Security Doctrine is to ensure that every tech
 
 ---
 
+## Evidence-backed Technical Admission
+
+Security and compliance requirements that determine whether a technical state may be used MUST be traceable to explicit Acceptance Criteria.
+
+Blocking criteria MUST fail closed:
+
+- FAIL results in REJECTED.
+- missing or inconclusive mandatory evidence results in BLOCKED.
+- only satisfied mandatory criteria may contribute to ADMITTED.
+
+Exceptions MUST be explicit, scoped, time-bounded and governed.
+They MUST NOT silently convert failed validation into successful evidence.
+
+---
+
 ## Purpose
 
 The Compliance & Security Doctrine serves as the binding reference for security and compliance across architecture, implementation, integration, and operations.
