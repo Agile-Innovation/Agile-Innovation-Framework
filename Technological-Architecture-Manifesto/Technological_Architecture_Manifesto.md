@@ -14,6 +14,16 @@ The objective of the Technological Architecture Manifesto is to define the techn
 
 ---
 
+## Architecture Suitability and Admission
+
+Architectural suitability and technical admission are distinct.
+
+An Architecture Decision Record may select or recommend a technology, but the concrete component version, configuration and deployment state remain subject to applicable admission criteria.
+
+Architecture decisions MUST NOT be interpreted as automatic approval of every implementation of the selected technology.
+
+---
+
 ## Purpose
 
 The TAM serves as the architectural and technology-governance guide for implementation.
