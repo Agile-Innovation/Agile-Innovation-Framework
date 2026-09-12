@@ -61,6 +61,29 @@ It means that *critical artifacts* MUST move from informal text toward structure
 
 ---
 
+### Admission Artifact Classes
+
+Software Component Admission extends the artifact model with:
+
+| Artifact Class | Purpose |
+|---|---|
+| Acceptance Criterion | Independently evaluable condition derived from normative intent |
+| Architecture Component | Technical subject or structural component under consideration |
+| Configuration | Concrete configuration state applied to a component |
+| Procedure Definition | Reproducible method for producing observations or evidence |
+| Procedure Execution | Concrete execution of a Procedure Definition |
+| Deployment | Concrete realization of configuration in an environment |
+| Observation | Recorded factual result from execution or runtime state |
+| Validation Result | Deterministic application of a Validation Rule |
+| Evidence | Referencable proof supporting a Validation Result |
+| Admission Decision | Derived determination of technical admissibility |
+
+Requirement Atom and Architecture Decision Record remain existing core classes.
+
+Validation Rule and Compliance Evidence are promoted from integration concepts into first-class canonical relationships where required by an Admission Profile.
+
+---
+
 ## Why DSL Core Belongs to the Agile Innovation Framework
 
 Modern software and digital infrastructure projects often fail because critical *knowledge remains implicit*.
