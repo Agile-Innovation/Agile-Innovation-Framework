@@ -141,6 +141,25 @@ This makes prioritization operational by translating strategic significance into
 
 ---
 
+## Admission and Revalidation Checkpoints
+
+The roadmap SHOULD expose admission checkpoints where technical state changes may affect trust.
+
+Checkpoints MAY include:
+
+- dependency introduction,
+- component version change,
+- architecture implementation,
+- deployment promotion,
+- production admission,
+- security advisory publication,
+- evidence expiration,
+- policy revision.
+
+A roadmap checkpoint MUST reference the applicable admission scope rather than repeat the underlying validation logic.
+
+---
+
 ## Time Planning and Milestones
 
 The Visionary Execution Roadmap documents both time sequencing and milestone structure in order to ensure that implementation remains aligned with strategic goals.
